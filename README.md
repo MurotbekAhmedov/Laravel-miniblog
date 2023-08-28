@@ -1,0 +1,1 @@
+New mini blog
